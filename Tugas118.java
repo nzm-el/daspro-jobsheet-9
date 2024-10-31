@@ -29,11 +29,8 @@ public class Tugas118 {
             System.out.println("Nilai Mahasiswa ke-" + (i+1) + " adalah = " + nilaiMhs[i]);
         }
         System.out.println();
-
-
         rata2 = total/nilaiMhs.length;
         System.out.println("Rata-rata nilai = " + rata2);
-
         System.out.println("Nilai tertinggi = " + nilaiTinggi);
         System.out.println("Nilai terendah = " + nilaiRendah);
     }
